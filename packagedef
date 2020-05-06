@@ -1,0 +1,11 @@
+Описание.Имя("IncrementalLoadConfigFromFiles1С")
+    .Версия("1.0.0")
+    .Автор("Anton Gil")
+    .АдресАвтора("gil.av@gazprom-neft.ru")
+    .ЗависитОт("cli", "0.9.10")
+    .ЗависитОт("v8runner", "1.9.0")
+    .ЗависитОт("fs", "1.0.0")
+    .Описание("Инрементальная загрузка файлов конфигурации 1С")
+    .ВключитьФайл("src")
+    .ВключитьФайл("README.md")
+    .ИсполняемыйФайл("src/main.os", "IncrementalLoadConfigFromFiles1С");
