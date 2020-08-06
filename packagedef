@@ -1,4 +1,4 @@
-Описание.Имя("IncrementalLoadConfigFromFiles1С")
+Описание.Имя("IncrementalLoadConfigFromFiles1C")
     .Версия("1.0.0")
     .Автор("Anton Gil")
     .АдресАвтора("gil.av@gazprom-neft.ru")
@@ -8,4 +8,4 @@
     .Описание("Инрементальная загрузка файлов конфигурации 1С")
     .ВключитьФайл("src")
     .ВключитьФайл("README.md")
-    .ИсполняемыйФайл("src/main.os", "IncrementalLoadConfigFromFiles1С");
+    .ИсполняемыйФайл("src/main.os", "IncrementalLoadConfigFromFiles1C");
